@@ -14,15 +14,15 @@ You will need:
 [GitClub](https://git-club.herokuapp.com/)
 
 ### Built With
-* React
-* Material UI
-* D3.js
-* GraphQL (API)
-* Node
-* Express
-* MongoDB
-* Passport
-* Deployed on Heroku
+* React (Phil Cowan, Alfred Carrillo & Kimberly Case)
+* Material UI (Phil Cowan & Alfred Carrillo)
+* D3.js (Rachel Sipes)
+* GraphQL (API) (Rachel Sipes)
+* Node (Rachel Sipes & Joel Zehring)
+* Express (Rachel Sipes & Joel Zehring)
+* MongoDB (Kimberly Case)
+* Passport (Joel Zehring)
+* Deployed on Heroku (Joel Zehring)
 
 ## Authors
 [**Alfredo Carrillo**](https://github.com/acarrillo2019) | 
